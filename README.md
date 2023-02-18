@@ -4,8 +4,8 @@ sales_forecast is an implementation of Linear Regression model that takes in a d
 
 # How to run
 
-1.The file can execute in google collab
-2.Install the train1.csv file from the files
-3.Upload the train1.csv file in the google collab files 
-4.Run the code to see the results
+-The file can execute in google collab
+-Install the train1.csv file from the files
+-Upload the train1.csv file in the google collab files 
+-Run the code to see the results
 
